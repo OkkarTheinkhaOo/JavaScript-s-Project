@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 20%;
+    height: 30px;
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#convert-btn {
+    background-color: #4CAF50;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#convert-btn:hover {
+    background-color: #3e8e41;
+}
+
+#output {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px;
+}
